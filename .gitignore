@@ -1,0 +1,33 @@
+# Node.js dependencies
+/frontend/node_modules/
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Environment variables
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Build outputs
+/frontend/dist/
+/frontend/build/
+/frontend/.next/
+
+# Logs
+/frontend/logs/
+/frontend/*.log
+/frontend/yarn.lock
+/frontend/package-lock.json
+
+# OS / IDE files
+/frontend/.DS_Store
+/frontend/Thumbs.db
+/frontend/.vscode/
+/frontend/.idea/
+/frontend/*.swp
+
+# Git-related files
+/frontend/.git/
